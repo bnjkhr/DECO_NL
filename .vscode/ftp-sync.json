@@ -1,0 +1,16 @@
+{
+    "remotePath": "/home/www/decohome.de",
+    "host": "s68.goserver.host",
+    "username": "web41",
+    "password": "BKsuzy88",
+    "port": 21,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
